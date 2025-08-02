@@ -2,7 +2,9 @@
 
 A beautiful, modern web application for minting NFTs on the Base Sepolia testnet. Built with React and designed with a stunning gradient UI, this application provides an intuitive interface for creating and managing your own NFT collection.
 
-![NFT Minter Demo](https://via.placeholder.com/800x400?text=Basic+NFT+Minter+Demo)
+
+## Live URL
+https://nft-minter-react-app.vercel.app/
 
 ## Features
 
@@ -50,7 +52,7 @@ Before running this application, make sure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/basic-nft-minter.git
+   git clone https://github.com/qasim-rokeeb/nft-minter-react-app.git
    cd basic-nft-minter
    ```
 
@@ -228,9 +230,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/basic-nft-minter/issues) page
+1. Check the [Issues](https://github.com/qasim-rokeeb/nft-minter-react-app/issues) page
 2. Create a new issue with detailed information
-3. Join our [Discord community](https://discord.gg/your-server)
 
 ## Roadmap
 
